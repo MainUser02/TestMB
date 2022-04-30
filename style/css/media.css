@@ -1,0 +1,367 @@
+@media (min-width: 1270px) and (max-width: 2715px){
+    .projects_slide{
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 1023px) and (max-width: 1269px){
+    h1{
+        font-size: 50px;
+        line-height: 72px;
+    }
+    .sub-title{
+        font-size: 20px;
+    }
+    .wrapper{
+        max-width: 95%;
+    }
+    .main_nav__block{
+        justify-content: space-between;
+    }
+    .footer_content{
+        margin: 50px 0 0 0;
+    }
+    .footer_content, .faq_content, .blogs_content {
+        max-width: 95%;
+    }
+    .projects_header{
+        width: 80%;
+    }
+    .projects_slide{
+        width: 80%;
+        overflow: hidden;
+    }
+    .projects_slide_branding{
+        width: 60%;
+    }
+    .projects_slide_pictures{
+        width: 100%;
+    }
+    .projects_slide_design{
+        margin: 0;
+        width: 60%;
+    }
+    .projects_slide_web-design, .projects_slide_web-developer{
+        display: none;
+    }
+    .projects_prev-next{
+        width: 80%;
+    }
+    .product_gallery div{
+        max-width: 32%;
+    }
+    .pc_block img{
+        width: 100%;
+    }
+    .ed-ex_content{
+        justify-content: space-around;
+    }
+    .testimonials_slide_photo{
+        width: 44%;
+    }
+    .testimonials_slide_content{
+        max-width: 50%;
+    }
+    .testimonials_slide_photo img{
+        width: 100%;
+    }
+    .testimonial_description p{
+        font-size: 31px;
+    }
+    .testimonial_prev{
+        left: 85.7%;
+    }
+    .testimonial_next{
+        left: 91%;
+    }
+    .faq_question{
+        width: 100%;
+    }
+    .faq_question p{
+        font-size: 21px;
+    }
+}
+@media (min-width: 767px) and (max-width: 1022px){
+    h1{
+        font-size: 38px;
+        line-height: 56px;
+    }
+    .header_photo img{
+        width: 100%;
+    }
+    .main_nav{
+        width: 52%;
+    }
+    .services_sub-title{
+        font-size: 28px;
+        line-height: 56px;
+    }
+    .sub-title{
+        font-size: 20px;
+    }
+    .wrapper{
+        max-width: 95%;
+    }
+    .main_nav__block{
+        justify-content: space-between;
+    }
+    .footer_content{
+        margin: 50px 0 0 0;
+    }
+    .footer_content, .faq_content, .blogs_content {
+        max-width: 95%;
+    }
+    .footer_title, .footer_sub-title{
+        font-size: 36px;
+    }
+    .provide_block, .multilingual_block, .usable_block{
+        width: 31%;
+    }
+    .provide_title h2, .multilingual_title h2, .usable_title h2{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .projects_header{
+        width: 80%;
+    }
+    .projects_slide{
+        width: 80%;
+        overflow: hidden;
+    }
+    .projects_slide_branding{
+        width: 60%;
+    }
+    .projects_slide_pictures{
+        width: 100%;
+    }
+    .projects_slide_design{
+        margin: 0;
+        width: 60%;
+    }
+    .slide_design_sub-title p, .slide_branding_sub-title p{
+        font-size: 20px;
+    }
+    .blogs_sub-title{
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .blog_text{
+        font-size: 20px;
+    }
+    .blogs_post{
+        margin: 0;
+    }
+    .projects_slide_web-design, .projects_slide_web-developer{
+        display: none;
+    }
+    .projects_prev-next{
+        width: 80%;
+    }
+    .product_title h2{
+        font-size: 20px;
+    }
+    .product_sub-title{
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .product_text{
+        width: 75%;
+    }
+    .product_text p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .product_gallery{
+        height: auto;
+    }
+    .phone_block, .pc_block{
+        height: auto;
+    }
+    .product_gallery div{
+        max-width: 32%;
+    }
+    .notes_block{
+        height: 70%;
+    }
+    .pc_block img, .phone_block img, .notes_block img{
+        width: 100%;
+    }
+    .ed-ex_content{
+        justify-content: space-around;
+    }
+    .ex-in_wrapper{
+        width: 81%;
+    }
+    .ed_content h2, .ex_content h2 {
+        font-size: 19px;
+    }
+    .ed_stanford_sub-title p, .ed_mit_sub-title p, .ed_california_sub-title p, .ex_spacefleet_sub-title p, .ex_musicmash_sub-title p, .ex_kingdom_sub-title p{
+        font-size: 11px;
+    }
+    .testimonials_slide_photo{
+        width: 44%;
+    }
+    .testimonials_slide_content{
+        max-width: 50%;
+    }
+    .testimonials_slide_photo img{
+        width: 100%;
+    }
+    .testimonial_description p{
+        font-size: 31px;
+    }
+    .testimonial_prev{
+        left: 85.7%;
+    }
+    .testimonial_next{
+        left: 91%;
+    }
+    .faq_question{
+        width: 100%;
+    }
+    .faq_question p{
+        font-size: 17px;
+    }
+}
+@media (min-width: 424px) and (max-width: 766px){
+    h1{
+        font-size: 38px;
+        line-height: 56px;
+    }
+    .header_photo img{
+        width: 100%;
+    }
+    .main_nav{
+        width: 52%;
+    }
+    .services_sub-title{
+        font-size: 28px;
+        line-height: 56px;
+    }
+    .sub-title{
+        font-size: 20px;
+    }
+    .wrapper{
+        max-width: 95%;
+    }
+    .main_nav__block{
+        justify-content: space-between;
+    }
+    .footer_content{
+        margin: 50px 0 0 0;
+    }
+    .footer_content, .faq_content, .blogs_content {
+        max-width: 95%;
+    }
+    .footer_title, .footer_sub-title{
+        font-size: 36px;
+    }
+    .provide_block, .multilingual_block, .usable_block{
+        width: 31%;
+    }
+    .provide_title h2, .multilingual_title h2, .usable_title h2{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .projects_header{
+        width: 80%;
+    }
+    .projects_slide{
+        width: 80%;
+        overflow: hidden;
+    }
+    .projects_slide_branding{
+        width: 60%;
+    }
+    .projects_slide_pictures{
+        width: 100%;
+    }
+    .projects_slide_design{
+        margin: 0;
+        width: 60%;
+    }
+    .slide_design_sub-title p, .slide_branding_sub-title p{
+        font-size: 20px;
+    }
+    .blogs_sub-title{
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .blog_text{
+        font-size: 20px;
+    }
+    .blogs_post{
+        margin: 0;
+    }
+    .projects_slide_web-design, .projects_slide_web-developer{
+        display: none;
+    }
+    .projects_prev-next{
+        width: 80%;
+    }
+    .product_title h2{
+        font-size: 20px;
+    }
+    .product_sub-title{
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .product_text{
+        width: 75%;
+    }
+    .product_text p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .product_gallery{
+        height: auto;
+    }
+    .phone_block, .pc_block{
+        height: auto;
+    }
+    .product_gallery div{
+        max-width: 32%;
+    }
+    .notes_block{
+        height: 70%;
+    }
+    .pc_block img, .phone_block img, .notes_block img{
+        width: 100%;
+    }
+    .ed-ex_content{
+        justify-content: space-around;
+    }
+    .ex-in_wrapper{
+        width: 81%;
+    }
+    .ed_content h2, .ex_content h2 {
+        font-size: 19px;
+    }
+    .ed_stanford_sub-title p, .ed_mit_sub-title p, .ed_california_sub-title p, .ex_spacefleet_sub-title p, .ex_musicmash_sub-title p, .ex_kingdom_sub-title p{
+        font-size: 11px;
+    }
+    .testimonials_slide_photo{
+        width: 44%;
+    }
+    .testimonials_slide_content{
+        max-width: 50%;
+    }
+    .testimonials_slide_photo img{
+        width: 100%;
+    }
+    .testimonial_description p{
+        font-size: 31px;
+    }
+    .testimonial_prev{
+        left: 85.7%;
+    }
+    .testimonial_next{
+        left: 91%;
+    }
+    .faq_question{
+        width: 100%;
+    }
+    .faq_question p{
+        font-size: 17px;
+    }
+}
